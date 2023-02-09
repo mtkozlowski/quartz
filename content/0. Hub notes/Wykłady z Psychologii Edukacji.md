@@ -2,6 +2,7 @@
 date: 2023-02-02
 tags: []
 published: false
+title: Wykłady z Psychologii Edukacji
 ---
 # Wykłady z Psychologii Edukacji
 
