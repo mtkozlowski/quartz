@@ -1,8 +1,5 @@
 ---
 title: "Literatura - ćwiczenia z psychologii klinicznej i zdrowia"
-date: 2022-11-18
-tags: []
-published: false
 ---
 # Literatura - ćwiczenia z psychologii klinicznej i zdrowia
 
