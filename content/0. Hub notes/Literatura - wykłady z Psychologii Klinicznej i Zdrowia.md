@@ -1,8 +1,8 @@
 ---
+title: "Literatura - wykłady z Psychologii Klinicznej i Zdrowia"
 date: 2022-11-18
 tags: psychologia 
 published: false
-title: Literatura - wykłady z Psychologii Klinicznej i Zdrowia
 ---
 # Literatura - wykłady z Psychologii Klinicznej i Zdrowia
 
